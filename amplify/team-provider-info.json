@@ -1,0 +1,23 @@
+{
+    "demo": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-bookfinder-demo-113843-authRole",
+            "UnauthRoleArn": "arn:aws:iam::070468362108:role/amplify-bookfinder-demo-113843-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::070468362108:role/amplify-bookfinder-demo-113843-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-bookfinder-demo-113843-deployment",
+            "UnauthRoleName": "amplify-bookfinder-demo-113843-unauthRole",
+            "StackName": "amplify-bookfinder-demo-113843",
+            "StackId": "arn:aws:cloudformation:eu-west-2:070468362108:stack/amplify-bookfinder-demo-113843/9c4a3b90-1389-11eb-84ec-0284b0b5311a",
+            "AmplifyAppId": "dmqfcljs032zz"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dmqfcljs032zz",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
